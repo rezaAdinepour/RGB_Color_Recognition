@@ -1,2 +1,1 @@
-# RGB_Color_Recognition
-Real Time Color Recognition
+# Color Recognition for Fun :smiley:
